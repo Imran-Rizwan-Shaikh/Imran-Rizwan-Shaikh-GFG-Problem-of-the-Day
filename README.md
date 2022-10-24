@@ -1,1 +1,1 @@
-# Imran-Rizwan-Shaikh-GFG-Problem-of-the-Day
+# GFG-Problem-of-the-Day
